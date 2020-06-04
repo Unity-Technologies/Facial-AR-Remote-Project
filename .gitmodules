@@ -1,0 +1,3 @@
+[submodule "PackageSource/com.unity.facial-ar-remote"]
+	path = PackageSource/com.unity.facial-ar-remote
+	url = https://github.com/Unity-Technologies/facial-ar-remote
